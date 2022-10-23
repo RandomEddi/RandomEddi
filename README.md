@@ -4,10 +4,10 @@
 ## Socials <br><br>[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/randomedd)
 
 
-# Stats <br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomeddi)](https://github.com/randomeddi/github-readme-stats)<br><br>![alt rank](https://www.codewars.com/users/RandomEdd/badges/large)
+## Stats <br><br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomeddi)](https://github.com/randomeddi/github-readme-stats)<br><br>![alt rank](https://www.codewars.com/users/RandomEdd/badges/large)
 
 
-### Stack
+## Stack
 
 
 <img src="https://img.shields.io/badge/HTML-2F353B?style=for-the-badge&logo=html5&logoColor=white"/><br>
