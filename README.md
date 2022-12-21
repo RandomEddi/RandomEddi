@@ -3,9 +3,6 @@
 
 ## Socials <br><br>[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/randomedd)
 
-[alt rank](https://www.codewars.com/users/RandomEdd/badges/large)
-
-
 ## Stack
 
 
