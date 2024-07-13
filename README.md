@@ -1,7 +1,5 @@
 ### Hey There ✋
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/randomedd)
-
 ## Stack
 
 
